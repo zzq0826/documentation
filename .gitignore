@@ -11,3 +11,4 @@ _src/animate-chain-transitions.js
 _src/link-to-wallet.js
 _src/reference/chainsToBe.json
 .test/
+.env

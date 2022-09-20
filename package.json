@@ -10,7 +10,8 @@
     "deploy": "yarn build && firebase deploy",
     "process": "yarn ts-node _tools/process-data.ts",
     "linkcheck": "yarn ts-node _tools/linkcheck.ts",
-    "compare-chains-metadata": "npx ts-node _src/chains-metadata.ts"
+    "compare-chains-metadata": "npx ts-node _src/chains-metadata.ts",
+    "generate-cl-node-env-files": "npx ts-node _src/nodes-config.ts"
   },
   "keywords": [
     "chainlink",
@@ -61,6 +62,10 @@
     "printWidth": 120
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.182"
+    "@octokit/auth-token": "^3.0.1",
+    "@octokit/auth-unauthenticated": "^3.0.2",
+    "@types/lodash": "^4.14.182",
+    "dotenv": "^16.0.2",
+    "octokit": "^2.0.7"
   }
 }
