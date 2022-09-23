@@ -213,6 +213,10 @@ module.exports = {
             url: '/docs/vrf/v2/examples/programmatic-subscription/',
           },
           {
+            title: 'Subscription Manager UI',
+            url: '/docs/vrf/v2/ui/',
+          },
+          {
             title: 'Security Considerations',
             url: '/docs/vrf/v2/security/',
           },
@@ -443,14 +447,16 @@ module.exports = {
           {
             title: 'Running a Chainlink Node',
             url: '/docs/running-a-chainlink-node/',
+            children: [
+              {
+                title: 'Run an Ethereum Client',
+                url: '/docs/run-an-ethereum-client/',
+              },
+            ],
           },
           {
             title: 'Fulfilling Requests',
             url: '/docs/fulfilling-requests/',
-          },
-          {
-            title: 'Run an Ethereum Client',
-            url: '/docs/run-an-ethereum-client/',
           },
           {
             title: 'Performing System Maintenance',
