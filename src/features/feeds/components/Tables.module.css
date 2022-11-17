@@ -17,7 +17,7 @@
 .assetPair {
   /* white-space: nowrap; */
   color: var(--color-text-heading);
-  width: 150px;
+  max-width: 250px;
 }
 
 .assetName {
