@@ -68,6 +68,7 @@ const initialCache = await getServerSideChainMetadata([...CHAINS, ...SOLANA_CHAI
             For LINK token and Faucet details, see the <a href="/docs/link-token-contracts/">LINK Token Contracts</a>{" "}
             page.
           </p>
+          <FeedsCommonCallout callout="quality" />
         </>
       ) : dataFeedType === "por" ? (
         <>
