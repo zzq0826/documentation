@@ -1,6 +1,6 @@
 ---
-layout: ../../../layouts/MainLayout.astro
-section: solana
+layout: ../../../../layouts/MainLayout.astro
+section: dataFeeds
 title: "Solana Data Feeds Addresses"
 stub: data-feeds-solana
 permalink: "docs/solana/data-feeds-solana/"

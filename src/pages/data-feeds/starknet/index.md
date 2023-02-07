@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MainLayout.astro
-section: ethereum
+section: dataFeeds
 date: Last Modified
 title: "Using Data Feeds on StarkNet"
 whatsnext: { "Starknet Price Feed Contract Addresses": "/data-feeds/price-feeds/addresses?network=starknet" }

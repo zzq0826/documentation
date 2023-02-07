@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MainLayout.astro
-section: ethereum
+section: dataFeeds
 date: Last Modified
 title: "NFT Floor Pricing Feeds"
 permalink: "docs/data-feeds/nft-floor-price/"

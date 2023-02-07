@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MainLayout.astro
 title: "NFT Floor Pricing Feed Addresses"
-section: ethereum
+section: dataFeeds
 datafeedtype: nftFloor
 metadata:
   title: "NFT Floor Pricing Feed Addresses"

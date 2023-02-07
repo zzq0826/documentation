@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MainLayout.astro
-section: ethereum
+section: dataFeeds
 date: Last Modified
 title: "Data Feeds API Reference"
 permalink: "docs/data-feeds/price-feeds/api-reference/"

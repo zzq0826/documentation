@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MainLayout.astro
-section: ethereum
+section: dataFeeds
 date: Last Modified
 title: "Proof of Reserve Feeds"
 permalink: "docs/data-feeds/proof-of-reserve/"
