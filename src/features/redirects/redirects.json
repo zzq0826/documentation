@@ -287,12 +287,12 @@
     },
     {
       "source": "docs/solana/data-feeds-solana",
-      "destination": "solana/data-feeds/data-feeds-solana",
+      "destination": "data-feeds/solana/data-feeds-solana",
       "statusCode": 301
     },
     {
       "source": "docs/solana/using-data-feeds-solana",
-      "destination": "solana/data-feeds/using-data-feeds-solana",
+      "destination": "data-feeds/solana/using-data-feeds-solana",
       "statusCode": 301
     },
     {
@@ -397,17 +397,17 @@
     },
     {
       "source": "docs/solana/using-data-feeds-off-chain",
-      "destination": "solana/data-feeds/using-data-feeds-off-chain",
+      "destination": "data-feeds/solana/using-data-feeds-off-chain",
       "statusCode": 301
     },
     {
       "source": "solana/using-data-feeds-solana",
-      "destination": "solana/data-feeds/using-data-feeds-solana",
+      "destination": "data-feeds/solana/using-data-feeds-solana",
       "statusCode": 301
     },
     {
       "source": "solana/using-data-feeds-off-chain",
-      "destination": "solana/data-feeds/using-data-feeds-off-chain",
+      "destination": "data-feeds/solana/using-data-feeds-off-chain",
       "statusCode": 301
     },
     {

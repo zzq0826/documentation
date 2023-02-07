@@ -138,11 +138,11 @@ export const SIDEBAR = {
         },
         {
           title: "Using Data Feeds Off-Chain",
-          url: "data-feeds/solana/data-feeds/using-data-feeds-off-chain",
+          url: "data-feeds/solana/using-data-feeds-off-chain",
         },
         {
           title: "Using Data Feeds On-Chain",
-          url: "data-feeds/solana/data-feeds/using-data-feeds-solana",
+          url: "data-feeds/solana/using-data-feeds-solana",
         },
         {
           title: "Data Feed Addresses",

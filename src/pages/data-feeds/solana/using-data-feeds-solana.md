@@ -5,7 +5,7 @@ date: Last Modified
 title: "Using Data Feeds On-Chain (Solana)"
 whatsnext:
   {
-    "Use data feeds off-chain": "/data-feeds/solana/data-feeds/using-data-feeds-off-chain/",
+    "Use data feeds off-chain": "/data-feeds/data-feeds/solana/using-data-feeds-off-chain/",
     "See the available data feeds on Solana": "/data-feeds/data-feeds/price-feeds/addresses?network=solana/",
   }
 metadata:

@@ -6,7 +6,7 @@ title: "Using Data Feeds Off-Chain (Solana)"
 permalink: "docs/solana/using-data-feeds-off-chain/"
 whatsnext:
   {
-    "Use data feeds on-chain": "/solana/data-feeds/using-data-feeds-solana/",
+    "Use data feeds on-chain": "/data-feeds/solana/using-data-feeds-solana/",
     "See the available data feeds on Solana": "/data-feeds/price-feeds/addresses?network=solana/",
   }
 metadata:
@@ -17,7 +17,7 @@ setup: |
   import { Tabs } from "@components/Tabs"
 ---
 
-Chainlink Data Feeds are the quickest way to access market prices for real-world assets. This guide demonstrates how to read Chainlink Data Feeds on the Solana Devnet using off-chain examples in the [Chainlink Solana Starter Kit](https://github.com/smartcontractkit/solana-starter-kit). To learn how to use Data Feeds in your on-chain Solana programs, see the [Using Data Feeds On-Chain](/solana/data-feeds/using-data-feeds-solana/) guide.
+Chainlink Data Feeds are the quickest way to access market prices for real-world assets. This guide demonstrates how to read Chainlink Data Feeds on the Solana Devnet using off-chain examples in the [Chainlink Solana Starter Kit](https://github.com/smartcontractkit/solana-starter-kit). To learn how to use Data Feeds in your on-chain Solana programs, see the [Using Data Feeds On-Chain](/data-feeds/solana/using-data-feeds-solana/) guide.
 
 To get the full list of Chainlink Data Feeds on Solana, see the [Solana Feeds](/data-feeds/price-feeds/addresses?network=solana/) page.
 

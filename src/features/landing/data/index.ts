@@ -101,9 +101,9 @@ export const solanaProducts = [
     learnMorelink: "/solana/overview/",
     image: dataFeedsLogo,
     links: [
-      ["Using Data Feeds Off-Chain", "/solana/data-feeds/using-data-feeds-off-chain/"],
-      ["Using Data Feeds On-Chain", "/solana/data-feeds/using-data-feeds-solana/"],
-      ["Solana Data Feeds Addresses", "/solana/data-feeds/data-feeds-solana/"],
+      ["Using Data Feeds Off-Chain", "/data-feeds/solana/using-data-feeds-off-chain/"],
+      ["Using Data Feeds On-Chain", "/data-feeds/solana/using-data-feeds-solana/"],
+      ["Solana Data Feeds Addresses", "/data-feeds/solana/data-feeds-solana/"],
     ],
   },
 ] as ProductCardProps[]
