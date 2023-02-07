@@ -120,7 +120,7 @@ export const SIDEBAR = {
       section: "NFT FLOOR PRICING FEEDS",
       contents: [
         {
-          title: "NFT Floor Pricing Feeds",
+          title: "Overview",
           url: "data-feeds/nft-floor-price",
         },
         {
