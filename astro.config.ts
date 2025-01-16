@@ -10,6 +10,7 @@ import sitemap from "@astrojs/sitemap"
 import { RehypePlugins } from "@astrojs/markdown-remark"
 import yaml from "@rollup/plugin-yaml"
 import { ccipRedirects } from "./src/config/redirects/ccip"
+import rehypeMermaid from "rehype-mermaidjs"
 
 // https://astro.build/config
 export default defineConfig({
@@ -42,6 +43,7 @@ export default defineConfig({
       ],
       // Wrap tables in div with overflow supported
       [rehypeWrapAll, { selector: "table", wrapper: "div.overflow-wrapper" }],
+      rehypeMermaid,
     ] as RehypePlugins,
     syntaxHighlight: "prism",
     smartypants: false,
